@@ -1,0 +1,5 @@
+/Users/spencermaas/Documents/GitHub/algorithms/data_structures/linkedlists/singlyLinkedList/singlyLinkedList/bin/Debug/singlyLinkedList.exe
+/Users/spencermaas/Documents/GitHub/algorithms/data_structures/linkedlists/singlyLinkedList/singlyLinkedList/bin/Debug/singlyLinkedList.pdb
+/Users/spencermaas/Documents/GitHub/algorithms/data_structures/linkedlists/singlyLinkedList/singlyLinkedList/obj/x86/Debug/singlyLinkedList.csproj.CoreCompileInputs.cache
+/Users/spencermaas/Documents/GitHub/algorithms/data_structures/linkedlists/singlyLinkedList/singlyLinkedList/obj/x86/Debug/singlyLinkedList.exe
+/Users/spencermaas/Documents/GitHub/algorithms/data_structures/linkedlists/singlyLinkedList/singlyLinkedList/obj/x86/Debug/singlyLinkedList.pdb
