@@ -1,0 +1,5 @@
+/Users/spencermaas/Documents/GitHub/algorithms/data_structures/linkedlists/circularlyLinkedList/circularlyLinkedList/bin/Debug/circularlyLinkedList.exe
+/Users/spencermaas/Documents/GitHub/algorithms/data_structures/linkedlists/circularlyLinkedList/circularlyLinkedList/bin/Debug/circularlyLinkedList.pdb
+/Users/spencermaas/Documents/GitHub/algorithms/data_structures/linkedlists/circularlyLinkedList/circularlyLinkedList/obj/x86/Debug/circularlyLinkedList.csproj.CoreCompileInputs.cache
+/Users/spencermaas/Documents/GitHub/algorithms/data_structures/linkedlists/circularlyLinkedList/circularlyLinkedList/obj/x86/Debug/circularlyLinkedList.exe
+/Users/spencermaas/Documents/GitHub/algorithms/data_structures/linkedlists/circularlyLinkedList/circularlyLinkedList/obj/x86/Debug/circularlyLinkedList.pdb
