@@ -23,16 +23,16 @@ namespace doublyLinkedList
 
     public class DoublyLinkedList<T> where T : IComparable
     {
-        private class Node<T>{
+        private class Node{
             public T val;
-            public Node<T> next;
-            public Node<T> prev;
+            public Node next;
+            public Node prev;
         }
         public DoublyLinkedList(){
             head = null;
         }
         public void append(T val){
-            Node<T> n = new Node<T>();
+            Node n = new Node();
             n.val = val;
             n.next = null;
             n.prev = null;
@@ -40,8 +40,8 @@ namespace doublyLinkedList
                 head = n;
             }
             else{ // list is non empty
-                Node<T> prev = null;
-                Node<T> cur = head;
+                Node prev = null;
+                Node cur = head;
 
                 while (cur != null){
                     prev = cur;
@@ -52,15 +52,15 @@ namespace doublyLinkedList
             }
         }
         public void insert(T val){
-            Node<T> n = new Node<T>();
+            Node n = new Node();
             n.val = val;
             n.next = null;
             if (head == null){ // list is empty
                 head = n;
             }
             else{ // non empty list
-                Node<T> prev = null;
-                Node<T> cur = head;
+                Node prev = null;
+                Node cur = head;
                 while (cur != null && (n.val).CompareTo(cur.val) > 0){
                     prev = cur;
                     cur = cur.next;
@@ -85,8 +85,8 @@ namespace doublyLinkedList
         /* remove a value if found and returns true, otherwise returns false */
         public bool delete(T val)
         {
-            Node<T> cur = head;
-            Node<T> prev = null;
+            Node cur = head;
+            Node prev = null;
             while (cur != null){
                 if (cur.val.CompareTo(val) == 0){
                     if (prev == null){ // delete from front
@@ -114,8 +114,8 @@ namespace doublyLinkedList
 
         /* prints the list forwards on one line and backwards on the next */
         public void print(){
-            Node<T> cur = head;
-            Node<T> prev = null;
+            Node cur = head;
+            Node prev = null;
             while (cur != null){
                 Console.Write(cur.val + " -> ");
                 prev = cur;
@@ -130,6 +130,6 @@ namespace doublyLinkedList
             Console.Write("null");
         }
 
-        private Node<T> head;
+        private Node head;
     }
 }
