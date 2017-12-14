@@ -1,0 +1,5 @@
+/Users/spencermaas/Documents/GitHub/algorithms/data_structures/linkedlists/doublyLinkedList/doublyLinkedList/obj/x86/Debug/doublyLinkedList.csproj.CoreCompileInputs.cache
+/Users/spencermaas/Documents/GitHub/algorithms/data_structures/linkedlists/doublyLinkedList/doublyLinkedList/bin/Debug/doublyLinkedList.exe
+/Users/spencermaas/Documents/GitHub/algorithms/data_structures/linkedlists/doublyLinkedList/doublyLinkedList/bin/Debug/doublyLinkedList.pdb
+/Users/spencermaas/Documents/GitHub/algorithms/data_structures/linkedlists/doublyLinkedList/doublyLinkedList/obj/x86/Debug/doublyLinkedList.exe
+/Users/spencermaas/Documents/GitHub/algorithms/data_structures/linkedlists/doublyLinkedList/doublyLinkedList/obj/x86/Debug/doublyLinkedList.pdb
