@@ -1,0 +1,5 @@
+/Users/spencermaas/Documents/GitHub/algorithms/data_structures/trees/binaryTree/binaryTree/obj/x86/Debug/binaryTree.csproj.CoreCompileInputs.cache
+/Users/spencermaas/Documents/GitHub/algorithms/data_structures/trees/binaryTree/binaryTree/bin/Debug/binaryTree.exe
+/Users/spencermaas/Documents/GitHub/algorithms/data_structures/trees/binaryTree/binaryTree/bin/Debug/binaryTree.pdb
+/Users/spencermaas/Documents/GitHub/algorithms/data_structures/trees/binaryTree/binaryTree/obj/x86/Debug/binaryTree.exe
+/Users/spencermaas/Documents/GitHub/algorithms/data_structures/trees/binaryTree/binaryTree/obj/x86/Debug/binaryTree.pdb
